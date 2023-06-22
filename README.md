@@ -1,0 +1,1 @@
+# https-storage.googleapis.com-play_public-supported_devices.html
